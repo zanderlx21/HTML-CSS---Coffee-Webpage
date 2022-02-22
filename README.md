@@ -1,5 +1,4 @@
-# deliverable_one
-Grand Circus HTML/CSS Unit 1 Lab 1
+# HTML/CSS - Coffee Webpage
 
 This was my entry project before being admitted into Grand Circus Bootcamp. 
 
